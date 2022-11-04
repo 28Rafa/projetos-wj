@@ -1,12 +1,24 @@
-h1{
-  text-align: center; color: #343635; font-size: 70px; font-style:normal; font-family: comic sans-serif;
-}
-p{
-  text-align:center; font-size: 30px; font-family: monospace;
-}
-
 body {
    background-color: #c1b398
+}
+.logo{
+margin-right: 75%
+
+}
+
+.texto{
+  h1{
+    text-align: center; color: #343635; font-size: 70px; font-style:normal; font-family: comic sans-serif;
+  }
+  p{
+    text-align:center; font-size: 30px; font-family: monospace;
+  }
+
+}
+
+.marcas{
+background-color: #849b95;font-size: 50px; text-align: center;font-family: monospace;
+
 }
 img{
 width: 60%;
