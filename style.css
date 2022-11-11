@@ -1,9 +1,10 @@
 body {
    background-color: #c1b398
 }
+
+.titulo{font-size: 100px;text-align: center;margin-top: -7%}
 .logo{
 margin-right: 75%
-
 }
 
 .texto{
@@ -13,14 +14,27 @@ margin-right: 75%
   p{
     text-align:center; font-size: 30px; font-family: monospace;
   }
-
 }
 
 .marcas{
 background-color: #849b95;font-size: 50px; text-align: center;font-family: monospace;
-
 }
+
+
 img{
 width: 60%;
 margin-left: 19%
+}
+
+.sobre{background-color: #849b95; font-size: 80px; text-align: center;}
+
+.contatos{background-color: #849b95;font-size: 80px; text-align: center;}
+
+li {
+  font-size: 40px
+}
+
+nav li{
+  display: inline;
+  padding: inherit;
 }
